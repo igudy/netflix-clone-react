@@ -4,8 +4,16 @@
 
 /* Poppins Font */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap'); */
+/* @import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
 
 body{
   background-color: #000000;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins', cursive;
+}
+
+.bebas{
+  font-family: 'Bebas Neue', cursive;
 }
