@@ -20,7 +20,6 @@ function App() {
             <ProtectedRoute>
               <Account />
             </ProtectedRoute>}>
-          
           </Route>
         </Routes>
       </AuthContextProvider>
